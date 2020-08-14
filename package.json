@@ -1,0 +1,25 @@
+{
+  "name": "LinkedIn-learning-Nodejs",
+  "version": "1.0.0",
+  "description": "**Objetivos:**\r - Implementar conocimientos\r - Curso practico basado en Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node servidor.js",
+    "dev": "nodemon servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauroPalgi/LinkedIn-learning-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauroPalgi/LinkedIn-learning-Nodejs/issues"
+  },
+  "homepage": "https://github.com/MauroPalgi/LinkedIn-learning-Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
